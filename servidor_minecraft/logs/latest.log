@@ -1,0 +1,42 @@
+[03:09:31] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[03:09:33] [ServerMain/INFO]: No existing world data, creating new world
+[03:09:34] [ServerMain/INFO]: Loaded 1290 recipes
+[03:09:34] [ServerMain/INFO]: Loaded 1399 advancements
+[03:09:35] [Server thread/INFO]: Starting minecraft server version 1.21
+[03:09:35] [Server thread/INFO]: Loading properties
+[03:09:35] [Server thread/INFO]: Default game type: SURVIVAL
+[03:09:35] [Server thread/INFO]: Generating keypair
+[03:09:35] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:09:36] [Server thread/INFO]: Using epoll channel type
+[03:09:36] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03:09:36] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[03:09:36] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03:09:36] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[03:09:36] [Server thread/INFO]: Preparing level "world"
+[03:09:50] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[03:09:50] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[03:09:50] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[03:09:51] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[03:09:51] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[03:09:52] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[03:09:52] [Worker-Main-1/INFO]: Preparing spawn area: 4%
+[03:09:53] [Worker-Main-1/INFO]: Preparing spawn area: 10%
+[03:09:53] [Worker-Main-1/INFO]: Preparing spawn area: 10%
+[03:09:54] [Worker-Main-1/INFO]: Preparing spawn area: 10%
+[03:09:54] [Worker-Main-1/INFO]: Preparing spawn area: 10%
+[03:09:55] [Worker-Main-1/INFO]: Preparing spawn area: 10%
+[03:09:55] [Worker-Main-1/INFO]: Preparing spawn area: 10%
+[03:09:56] [Worker-Main-1/INFO]: Preparing spawn area: 10%
+[03:09:56] [Worker-Main-1/INFO]: Preparing spawn area: 10%
+[03:09:57] [Worker-Main-1/INFO]: Preparing spawn area: 10%
+[03:09:57] [Worker-Main-1/INFO]: Preparing spawn area: 10%
+[03:09:58] [Worker-Main-1/INFO]: Preparing spawn area: 10%
+[03:09:59] [Worker-Main-1/INFO]: Preparing spawn area: 10%
+[03:09:59] [Worker-Main-1/INFO]: Preparing spawn area: 10%
+[03:09:59] [Worker-Main-1/INFO]: Preparing spawn area: 10%
+[03:10:00] [Worker-Main-1/INFO]: Preparing spawn area: 10%
+[03:10:00] [Worker-Main-1/INFO]: Preparing spawn area: 10%
+[03:10:01] [Worker-Main-1/INFO]: Preparing spawn area: 10%
+[03:10:01] [Worker-Main-1/INFO]: Preparing spawn area: 14%
+[03:10:02] [Server thread/INFO]: Time elapsed: 12239 ms
+[03:10:02] [Server thread/INFO]: Done (26.298s)! For help, type "help"
